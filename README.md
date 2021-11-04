@@ -1,2 +1,2 @@
 # Learning-Lists
-Learning Lists on Jupyter Notebook
+Learning basic operations in Lists on Jupyter Notebook
